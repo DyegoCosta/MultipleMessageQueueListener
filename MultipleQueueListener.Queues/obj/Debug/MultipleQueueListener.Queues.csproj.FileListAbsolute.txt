@@ -1,0 +1,7 @@
+H:\Documentos\Projetos\MultipleQueueListener\MultipleQueueListener\MultipleQueueListener.Queues\bin\Debug\MultipleQueueListener.Queues.dll
+H:\Documentos\Projetos\MultipleQueueListener\MultipleQueueListener\MultipleQueueListener.Queues\bin\Debug\MultipleQueueListener.Queues.pdb
+H:\Documentos\Projetos\MultipleQueueListener\MultipleQueueListener\MultipleQueueListener.Queues\bin\Debug\MultipleQueueListener.Interfaces.dll
+H:\Documentos\Projetos\MultipleQueueListener\MultipleQueueListener\MultipleQueueListener.Queues\bin\Debug\MultipleQueueListener.Interfaces.pdb
+H:\Documentos\Projetos\MultipleQueueListener\MultipleQueueListener\MultipleQueueListener.Queues\obj\Debug\ResolveAssemblyReference.cache
+H:\Documentos\Projetos\MultipleQueueListener\MultipleQueueListener\MultipleQueueListener.Queues\obj\Debug\MultipleQueueListener.Queues.dll
+H:\Documentos\Projetos\MultipleQueueListener\MultipleQueueListener\MultipleQueueListener.Queues\obj\Debug\MultipleQueueListener.Queues.pdb
