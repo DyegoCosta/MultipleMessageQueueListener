@@ -1,10 +1,10 @@
-_ReSharper.MultipleQueueListener
-MultipleQueueListener/obj
+src/_ReSharper.MultipleQueueListener
+src/MultipleQueueListener/obj
 
-MultipleQueueListener.Interfaces/obj
+src/MultipleQueueListener.Interfaces/obj
 
-MultipleQueueListener.Queues/obj
+src/MultipleQueueListener.Queues/obj
 
-MultipleQueueListener.suo
+src/MultipleQueueListener.suo
 
-MultipleQueueListener.sln.docstates.suo
+src/MultipleQueueListener.sln.docstates.suo
